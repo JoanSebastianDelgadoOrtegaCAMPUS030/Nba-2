@@ -1,2 +1,1 @@
-# Nba-2
-parte 2
+# aplicacion-NBA-js
